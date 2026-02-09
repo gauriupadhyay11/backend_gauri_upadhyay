@@ -1,0 +1,8 @@
+{
+    "id" : 101,
+    "name" : "gauri",
+    "isActive": true, 
+    "languagepro" : ["English","hindi","punjabi"],
+    "techStack" : {"primary":"php","secondary":"mean"},
+    "isPlaced" : null
+}
